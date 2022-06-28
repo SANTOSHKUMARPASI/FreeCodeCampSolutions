@@ -167,20 +167,4 @@ function convertToRoman(num) {
     return roman;
 };
 
-// convertToRoman(0); success
-// convertToRoman(1); //success
-// convertToRoman(4); //success
-// convertToRoman(5); //success
-// convertToRoman(8); //success
-// convertToRoman(9); //success
-// convertToRoman(10); //success
-// convertToRoman(14); //success
-// convertToRoman(19); //success
 
-// convertToRoman(49); //success
-
-// convertToRoman(50); //success
-
-// convertToRoman(550); //success
-// convertToRoman(1350); //success
-// convertToRoman(649); //success
